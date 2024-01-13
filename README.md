@@ -7,6 +7,6 @@ python-pip python-setuptools
 pip install scapy 
 git clone https://github.com/wifiphisher/wifiphisher.git 
 cd wifiphisher
-python setup.py 
-install  cd wifiphisher
+python setup.py install 
+cd wifiphisher
 python wifiphisher
